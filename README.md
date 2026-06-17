@@ -29,16 +29,3 @@ Histórico de atendimentos
 Controle financeiro
 Interface gráfica
 Relatórios gerenciais
-Como Executar
-Clone o repositório:
-git clone URL_DO_REPOSITORIO
-Instale as dependências:
-pip install -r requirements.txt
-Configure a conexão com o PostgreSQL.
-Execute o sistema:
-python main.py
-Autor
-
-Cristian Dalnei
-
-Desenvolvedor em formação, com foco em Python, Banco de Dados e desenvolvimento de sistemas para automação de processos.
